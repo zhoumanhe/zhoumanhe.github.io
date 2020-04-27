@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>zhou在路上</title>
   
-  <subtitle>不想当架构师的程序员不是好的工程师</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zhoumanhe.com/"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.zhoumanhe.com/2020/04/27/hello-world/"/>
-    <id>https://www.zhoumanhe.com/2020/04/27/hello-world/</id>
+    <link href="https://www.zhoumanhe.com/uncategorized/hello-world/"/>
+    <id>https://www.zhoumanhe.com/uncategorized/hello-world/</id>
     <published>2020-04-27T07:47:26.456Z</published>
     <updated>2020-04-27T07:47:26.456Z</updated>
     
